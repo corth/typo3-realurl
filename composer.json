@@ -24,11 +24,7 @@
         "typo3-ter/realurl": "self.version"
     },
     "require": {
-<<<<<<< HEAD
         "typo3/cms-core": ">=6.2.0,<8.7.999",
-=======
-        "typo3/cms-core": ">=6.2.0,<=8.7.99",
->>>>>>> a0ba09bd5021d49af2a4e3ed9f993d162ad2552c
         "php": ">=5.4.0"
     },
     "require-dev": {
